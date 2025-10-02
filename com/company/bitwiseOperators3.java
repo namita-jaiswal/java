@@ -8,6 +8,6 @@ public class bitwiseOperators3 {
 
     public static void main(String[] args) {
         int not = 33; // ~ tilde
-        int x = not(not);
+        System.out.println(not(not));
     }
 }

@@ -17,10 +17,10 @@ public class sum
     }
     public static void main(String[] args)
     {
-        int x,c,y;
+        int x;
         Scanner num = new Scanner(System.in);
         x = num.nextInt();
-        c= logic(x);
-        System.out.println(c);
+        num.close();
+        System.out.println(logic(x));
     }
 }

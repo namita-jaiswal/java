@@ -1,3 +1,5 @@
+package com.company;
+
 public class leftRotate1 {
     static void byOne(int[] nums) {
         int n=nums.length;
