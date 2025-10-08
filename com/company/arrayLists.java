@@ -10,4 +10,3 @@ public class arrayLists {
         System.out.println(al);
     }
 }
-#push test
