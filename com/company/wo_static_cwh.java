@@ -1,5 +1,3 @@
-package com.company;
-
 public class wo_static_cwh
 {
     int logic(int x, int y) {

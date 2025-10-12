@@ -1,4 +1,4 @@
-package com.company.array;
+package array;
 
 public class slidingWindow {
     static int window(int[] arr, int n, int k) {

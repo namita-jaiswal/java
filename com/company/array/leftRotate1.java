@@ -1,4 +1,4 @@
-package com.company.array;
+package array;
 
 public class leftRotate1 {
     static void byOne(int[] nums) {

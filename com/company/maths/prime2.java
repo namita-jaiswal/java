@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 // TC:O((sqrt of n)
 public class prime2 {
     static boolean prime(int n) {

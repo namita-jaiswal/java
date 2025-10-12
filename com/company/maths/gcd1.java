@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 
 public class gcd1 {
     static int divisor(int a,int b) {

@@ -1,4 +1,3 @@
-package com.company;
 public class w_static_cwh
 {
     static int logic(int x, int y)

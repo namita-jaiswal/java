@@ -1,4 +1,4 @@
-package com.company.operators;
+package operators;
 // TC: 0(log n)
 public class trail2_zeroes {
     static int kuku (int n) {

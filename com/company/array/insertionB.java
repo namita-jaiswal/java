@@ -1,4 +1,4 @@
-package com.company.array;
+package array;
 
 class Node2 {
     int data;

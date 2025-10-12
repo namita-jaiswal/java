@@ -1,5 +1,4 @@
-package com.company.operators;
-
+package operators;
 public class bitwiseOperators1 {
     static int operator_AND(int a, int b) {
         int x =(a&b); // produces input as 1 when both of the inputs are 1

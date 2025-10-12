@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 import java.util.Scanner;
 
 public class sum

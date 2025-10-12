@@ -1,4 +1,4 @@
-package com.company.operators;
+package operators;
 
 public class check_KthBit2 {
     static boolean bit (int n, int k) {

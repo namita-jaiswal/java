@@ -1,4 +1,4 @@
-package com.company.operators;
+package operators;
 //TC: O(n)
 public class trail1_zeroes {
     static int trail(int t) {

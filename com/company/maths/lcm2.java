@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 
 public class lcm2 {
     static int opt(int a, int b) {

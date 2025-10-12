@@ -1,4 +1,4 @@
-package com.company.operators;
+package operators;
 // 0 to 1 and vice versa
 public class bitwiseOperators3 {
     static int not(int n) {

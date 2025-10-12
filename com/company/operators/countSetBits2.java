@@ -1,4 +1,4 @@
-package com.company.operators; // Brian Kerningam's Algorithm
+package operators; // Brian Kerningam's Algorithm
 
 public class countSetBits2 {
 static int bit (int n) {

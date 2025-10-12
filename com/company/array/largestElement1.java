@@ -1,4 +1,4 @@
-package com.company.array;
+package array;
 
 public class largestElement1 {
     static int large(int[] arr){

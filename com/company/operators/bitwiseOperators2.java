@@ -1,4 +1,4 @@
-package com.company.operators;
+package operators;
 // x<<y = x*(2)^y
 // x>>y = Math.floor(x/(2)^y)
 public class bitwiseOperators2 {

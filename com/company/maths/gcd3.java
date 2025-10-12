@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 
 public class gcd3 {
     static int gcd(int a,int b) {

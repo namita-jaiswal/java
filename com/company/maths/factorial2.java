@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 
 //TC: 0(f), SC: O(1)
 public class factorial2 {

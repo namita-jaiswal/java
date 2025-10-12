@@ -1,4 +1,4 @@
-package com.company.operators;
+package operators;
 // TC:0(total number of bits)
 public class countSetBits1 {
     static int bit(int n) {

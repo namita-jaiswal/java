@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 //TC:O(n)
 public class prime1 {
     static boolean pr(int n){

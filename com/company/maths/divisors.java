@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 //TC: 0(n)
 //SC: 0(1)
 public class divisors {

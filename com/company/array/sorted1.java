@@ -1,4 +1,4 @@
-package com.company.array;
+package array;
 
 public class sorted1 {
     static boolean sort(int[] arr) {

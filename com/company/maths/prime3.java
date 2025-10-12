@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 
 public class prime3 {
     static boolean prime(int n) {

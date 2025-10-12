@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 
 public class primeFactors1 {
     static int prime(int n) {

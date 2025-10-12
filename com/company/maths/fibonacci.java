@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 
 public class fibonacci {
     static int fib(int n) {

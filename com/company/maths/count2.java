@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 
 public class count2 {
     static int out(long n) {

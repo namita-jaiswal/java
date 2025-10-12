@@ -1,4 +1,4 @@
-package com.company.array;
+package array;
 
 public class deletion {
     static int del(int[] arr, int x){

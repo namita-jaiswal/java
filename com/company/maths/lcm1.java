@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 //TC:O(a*b)-max(a,b))
 public class lcm1 {
     static int lcm(int a, int b) {

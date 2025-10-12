@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 //TC: 0(n)
 public class palindrome {
     static int palindromes(int n){

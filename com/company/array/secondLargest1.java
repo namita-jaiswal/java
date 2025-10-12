@@ -1,4 +1,4 @@
-package com.company.array;
+package array;
 
 public class secondLargest1 {
     static int cis(int[] arr, int n) {

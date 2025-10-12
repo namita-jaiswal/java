@@ -1,4 +1,4 @@
-package com.company.array;
+package array;
 
 public class duplicates {
     static int dupes(int[] arr, int n) {

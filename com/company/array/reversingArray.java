@@ -1,4 +1,4 @@
-package com.company.array;
+package array;
 import java.util.Arrays;
 
 public class reversingArray {

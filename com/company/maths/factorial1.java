@@ -1,4 +1,4 @@
-package com.company.maths;
+package maths;
 //TC: T(n-1)+0(1)=0(n)
 public class factorial1 {
     static int factorials(int n) {
