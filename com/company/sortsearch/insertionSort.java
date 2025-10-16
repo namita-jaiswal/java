@@ -1,7 +1,7 @@
 package sortsearch;
 
 public class insertionSort {
-    static void insertionSort(int arr[], int n){
+    static void InsertionSort(int arr[], int n){
         for(int i=1;i<n;i++){
             int key=arr[i];
             int j=i-1;
@@ -16,6 +16,6 @@ public class insertionSort {
 public static void main(String[] args) {
     int[] arr={5,4,3,2,1};
     int n=arr.length;
-    insertionSort(arr,n);
+    InsertionSort(arr,n);
     }
 }
