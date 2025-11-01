@@ -3,16 +3,13 @@ import java.util.Arrays;
 
 public class sorting012 {
     static int[] sort012(int[] arr, int n){
-        int cnt1=0,cnt2=0,cnt0=0;
+        int cnt1=0,cnt0=0;
         for (int i=0; i<n; i++) {
             if(arr[i]==0){
                 cnt0++;
             }
             else if(arr[i]==1){
                 cnt1++;
-            }
-            else if(arr[i]==2){
-                cnt2++;
             }
         }
         for(int i=0;i<cnt0;i++){
