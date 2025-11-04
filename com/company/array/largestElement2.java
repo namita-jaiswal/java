@@ -1,5 +1,3 @@
-package array;
-
 public class largestElement2 {
     static int large(int[] arr){
         int res=0;

@@ -1,5 +1,3 @@
-package array;
-
 public class secondLargest1 {
     static int cis(int[] arr, int n) {
         int largest = 0;

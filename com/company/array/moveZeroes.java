@@ -1,5 +1,3 @@
-package array;
-
 public class moveZeroes {
     static void  moveZeroesToEnd(int [] arr, int n){
         for(int i=0;i<n;i++){

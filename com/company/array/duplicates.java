@@ -1,5 +1,3 @@
-package array;
-
 public class duplicates {
     static int dupes(int[] arr, int n) {
         int[] temp=new int[n];

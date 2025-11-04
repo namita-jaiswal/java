@@ -1,5 +1,3 @@
-package array;
-
 public class leftRotate {
     static void leftrotate(int[] arr, int n){
         int temp=arr[0];

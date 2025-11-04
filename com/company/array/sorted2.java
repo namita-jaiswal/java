@@ -1,5 +1,3 @@
-package array;
-
 public class sorted2 {
     static boolean sort(int[] arr){
         int n=arr.length-1;

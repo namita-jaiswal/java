@@ -1,5 +1,3 @@
-package array;
-
 public class deletion {
     static int del(int[] arr, int x){
         int n=arr.length;

@@ -1,4 +1,3 @@
-package array;
 public class leaders{
     static void lead(int [] arr, int n){
         for(int i=0;i<n;i++){
