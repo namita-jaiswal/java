@@ -1,5 +1,6 @@
 public class maximumSubarray2 {
-   static int maxSubarr(int[] arr, int n){
+   static int maximumSubarr(int[] arr, int n){
       
+   return 0;  
    }
 }
